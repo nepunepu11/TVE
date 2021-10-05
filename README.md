@@ -14,6 +14,9 @@ TVE (Twitch Integrations for VTubers Extension!) is a software designed to run a
 
 - Adjust any Lighting, Camera, Post Processing settings to your tailored desire, and then you're ready to use!
 
+# Current State
+This program is currently in the Closed Early Alpha Access, so bear in mind that the program may contain bugs and glitchiness, but this software will be updated frequently until it is stable and all of the demanded features are implemented to a scale that everyone is happy with.
+
 # Special Thanks
 Although I fully programmed this myself, it could not have been done without the help of SleepyGhost and Juncker.
 
@@ -23,8 +26,7 @@ Juncker inspired the creation of this software, funded its development and came 
 
 https://www.twitch.tv/sleepyghosttv & https://www.twitch.tv/juncker_
 
-# Current State
-This program is currently in the Closed Early Alpha Access, so bear in mind that the program may contain bugs and glitchiness, but this software will be updated frequently until it is stable and all of the demanded features are implemented to a scale that everyone is happy with.
+
 
 
 
