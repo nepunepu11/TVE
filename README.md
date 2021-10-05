@@ -13,7 +13,7 @@ This Extension was fully programmed by Nepu (Me) and will be distributed through
 # How to Use
 - Make sure that VSeeFace is running in the background, and that the OSC/VMC Protocol is enabled inside of the Settings. This is so the Tracking Information can be sent to this software automatically!
 
-- Make sure to use the same model inside of this software that you have seleceted inside of VSeeFace, to avoid any unnecessary bugs in the tracking.
+- Make sure to use the same model inside of this software that you have selected inside of VSeeFace, to avoid any unnecessary bugs in the tracking.
 
 - Adjust any Lighting, Camera, Post Processing settings to your tailored desire, and then you're ready to use!
 
