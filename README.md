@@ -27,7 +27,7 @@ SleepyGhost created all of the Art, Graphics, Interfaces and Aesthetic of this s
 
 Juncker inspired the creation of this software, funded its development and came up with many of the Twitch Integration Ideas. They are amazing creators and friends who deserve the world.
 
-"https://www.twitch.tv/sleepyghosttv" & "https://www.twitch.tv/juncker_"
+"twitch.tv/sleepyghosttv" & "twitch.tv/Juncker+_"
 
 
 
