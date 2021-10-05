@@ -1,5 +1,5 @@
-# TVE
-Twitch integrations for VTubers Extension!
+# TVE (Twitch integrations for VTubers Extension!)
+
 # Description
 TVE (Twitch Integrations for VTubers Extension!) is a software designed to run alongside VSeeFace to allow VTubers to give their streams more interactability with their models. Do you want your chat to be able to throw objects at your Avatar? Have you ever wanted your Avatar to ragdoll when a Viewer redeems a channel reward? Maybe you've wanted the ability for your viewers to even stab your Model through events, commands and rewards? All of it is possible with TVE!
 
